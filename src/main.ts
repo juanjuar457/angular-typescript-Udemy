@@ -10,3 +10,10 @@ if (environment.production) {
 
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.log(err));
+
+
+  //line 11 is the kickstart method getting passed 
+  //the AppModule 
+
+  //KIP module === features of angular you are using
+  
